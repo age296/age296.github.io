@@ -7,7 +7,7 @@ He estudidado ASIR(Administración de sistemas informatáticos y redes, actualme
 
 ### Leguajes
 
-Los lenguajes de proramación que utilizado a lo largo de la carrera:
+Los lenguajes de programación que utilizado a lo largo de la carrera:
 
 - Java
 - C#
