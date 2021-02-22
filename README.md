@@ -1,5 +1,5 @@
 ## Bienvenidos a mi página de GitHub
-Me llamo, Ángel Gómez Espinosa y en este sitio encontrareis información sobre mi.
+Hola! :wave: Me llamo, Ángel Gómez Espinosa, tengo 22 años y en este sitio encontrareis información sobre mi.:octocat:
 
 ### Estudios
 
